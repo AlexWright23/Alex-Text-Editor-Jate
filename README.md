@@ -12,6 +12,7 @@ To use, first git clone the repository, run npm i to install all the dependencie
 This is used as a browser text editor to store data, can be installed locally and used offline
 
 ## Link
+*Heroku link not working*
 https://ancient-dawn-11696.herokuapp.com/
 
 ## Screenshot
